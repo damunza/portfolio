@@ -2,7 +2,7 @@
 #### 29-june-2018
 #### By **{Daniel Mutai}**
 ## Description
-{this is a website containing Daniel's portfolio .it was compiled by Daniel Mutai on 29th June 2018.it was written using html and styled with css   }
+{this is a website containing Daniel's portfolio .It was compiled by Daniel Mutai on 29th June 2018.it was written using html and styled with css   }
 
 
 ## Support and contact details
