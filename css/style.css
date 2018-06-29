@@ -19,8 +19,19 @@ font-style: italic;
   color: black;
 }
 .four{
-  float: right;
+  margin-left: 50%;
+  margin-right: 50%;
+  height: auto;
+  width: auto;
 }
 .menu{
   align-content: center;
+}
+.five{
+  background-image: url("../img/code2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ol{
+  font-weight: bold;
 }
