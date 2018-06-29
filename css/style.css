@@ -1,1 +1,26 @@
-.
+.one{
+  background-image: url("../img/cars3.jpg");
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.two{
+background-color: #e7ea15;
+font-style: italic;
+}
+.three{
+  background-image: url("../img/noir.jpg");
+  color:#14eab5;
+  background-repeat: no-repeat;
+  background-size: contain;
+  align-items: center;
+}
+.benz{
+  color: black;
+}
+.four{
+  float: right;
+}
+.menu{
+  align-content: center;
+}
